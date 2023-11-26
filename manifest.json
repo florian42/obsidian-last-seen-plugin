@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-last-opened-plugin",
+	"name": "Last Opened",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Adds and update a last opened timestamp when opening a note",
+	"author": "florian42",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
